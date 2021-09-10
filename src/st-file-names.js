@@ -61,5 +61,5 @@ export default function renameFiles(names) {
     if (counter == 1 || counter == 0) trigger = false;
   }
   
-  return names;с рекурс
+  return names;
 }
